@@ -60,7 +60,10 @@
 </a>
 <a href="https://linkedin.com/in/tomiglesias" target="_blank">
 <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
-</a>  
+</a>
+<a href="mailto:tomiglesias1909@gmail.com" target="_blank">
+<img src=https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail&logoColor=white alt=gmail style="margin-bottom: 5px;" />
+</a>
 </div>  
   
 
