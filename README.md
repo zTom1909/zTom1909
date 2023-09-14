@@ -7,7 +7,7 @@
 - 🌱 I’m currently learning TypeScript  
   
 
-- ❓ Ask me about anything related to DiscordJS and Backend  
+- ❓ Ask me about anything related to DiscordJS and Backend Development 
   
 
 - ⚡ Fun fact: I'm a never nester  
