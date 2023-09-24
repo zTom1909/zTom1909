@@ -1,4 +1,4 @@
-![image](https://github.com/zTom1909/zTom1909/assets/92072358/b00e9e23-7503-4df6-9178-6f68d502f3d9)## <div align="center">Tomás Iglesias | Full Stack Web Developer</div>  
+## <div align="center">Tomás Iglesias | Full Stack Web Developer</div>  
   
 
 ## About me
