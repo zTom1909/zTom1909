@@ -2,7 +2,7 @@
   
 
 ## About me
-- 🔭 I’m currently working on [Final Proyect](https://github.com/FrancoA56/ProyectoFinal)  
+- 🔭 I’m currently working on [EasyServer](https://github.com/zTom1909/EasyServer)  
   
 
 - 🌱 I’m currently learning TypeScript  
